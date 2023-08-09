@@ -1,0 +1,282 @@
+[
+  {
+    "name": "trademe.ClassicSessionId",
+    "value": "50WWySgfLnhWQUazkwtpn7C8sz9Qy%2fYUVmM%2b2A%2fs9hwK0P3GB7jQYUuTQ3Z1fy6H6dy9sGa3uD8lgGoANGJ6zA%3d%3d",
+    "domain": "www.trademe.co.nz",
+    "path": "/a",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.694624004.1684795797",
+    "domain": ".trademe.co.nz",
+    "path": "/",
+    "expires": 1692571797,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "user%5Fhome%5Fregion",
+    "value": "2",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": 1722570025.721843,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "user%5Fregion",
+    "value": "Current=100",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": 1722570025.721861,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "trademe%5Fcookie",
+    "value": "5bfb5b34-38a7-474c-88df-14745e9f3c9e",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": 1719450732.776534,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "tm.FrEnd.cardViewMode",
+    "value": "!~property~-!~whenSmall~-0.~whenNotSmall~-0__",
+    "domain": ".www.trademe.co.nz",
+    "path": "/",
+    "expires": 1716782363,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "x-trademe-uniqueclientid",
+    "value": "90563956-140e-521b-f101-0a8b0f4e3180",
+    "domain": ".trademe.co.nz",
+    "path": "/",
+    "expires": 1720929382.944669,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "trademeclientid",
+    "value": "90563956-140e-521b-f101-0a8b0f4e3180",
+    "domain": ".trademe.co.nz",
+    "path": "/",
+    "expires": 1725507910.942196,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "LCMHistory",
+    "value": "1#",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": 1722141227,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "jsValidationToken",
+    "value": "a0b8380c-0989-4652-9960-0af5a16862ba",
+    "domain": ".trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "SOV",
+    "value": "1",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "bid",
+    "value": "0,0,0",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "tm.FrEnd.browserSize",
+    "value": "1440",
+    "domain": ".www.trademe.co.nz",
+    "path": "/",
+    "expires": 1722570310,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "Auth.SilentLogin",
+    "value": "1690939858",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "click%5Ffrom%5Flt",
+    "value": "https%3a%2f%2f10minutemail.net%2f",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "click%5Fdate%5Flt",
+    "value": "2023-8-2+15%3a40",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "idsrv.InterOp",
+    "value": "4BA69B12482A6B6D38FA8322DDD30BB1F989600D",
+    "domain": ".trademe.co.nz",
+    "path": "/",
+    "expires": 1698723625.61227,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "member%5Fname",
+    "value": "TheTradeMe",
+    "domain": ".trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "login%5Fmember%5Fid",
+    "value": "8653726",
+    "domain": ".trademe.co.nz",
+    "path": "/",
+    "expires": 1725507625.721943,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "user%5Fap",
+    "value": "g=D&bd=631007712000000000&sb=161&pc=2013&dpid=0&hash=1ccaa014-4005-4d8d-b67c-2eb55c699b6f&mat=",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": 1722570025.721962,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "Auth.IdToken",
+    "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IkNCM0I0MkY3MDBBMTNFMkVDQkE5NDIzOTYwQUVDRjRERTc4M0Y2QjUiLCJ4NXQiOiJ5enRDOXdDaFBpN0xxVUk1WUs3UFRlZUQ5clUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2F1dGgudHJhZGVtZS5jby5ueiIsIm5iZiI6MTY5MDk0NzYyNSwiaWF0IjoxNjkwOTQ3NjI1LCJleHAiOjE2OTA5NDc3NDUsImF1ZCI6InRtX2NsYXNzaWMiLCJhbXIiOlsicHdkIl0sIm5vbmNlIjoib1BNMkplNUhhSkN1YzFXL0QwckVWdDAvUktjeDdmVlJ5MVEwdG5OOFZ6Zz0iLCJzaWQiOiI2QUNERTQ5NzU5QkQxNkNFOTA4NDRDOTMyQUExOTg0NCIsInN1YiI6Ijg2NTM3MjYiLCJhdXRoX3RpbWUiOjE2OTA5NDc2MjUsImlkcCI6InRyYWRlbWUifQ.JH-ZlAw78LRc4U0crDQbnduo94P73Tre8J6FXlvnOL_3iEbiuc8BosyfqqDTvCfDVhkhVZFuXfZTogzl3BxtMKOjnbRRrYzmRoRExCQSD89dBKRDm-RF9KCPvuZjJrzf9ltdVsxzYza_zulLR2hoBz5TmEij26E-49P308OfHofHQVKOngJj5YPOhLtb5XYC-9lBsY_aKp4GblSVOiHk6pSeq1TT_iYCC0Xn8VkjqVOKaPVV-sRpIPNl2nd4QFMmc4GrkcTrYRhrPGsCmnxp4HESCYh0L2Y_MKfGJRLX-zkM1JelOgTw7UP_6tenFvgcGVd91tK4mmqP4FmXH4kL8ocSiDAjaHsXN6G_x350KruWUf7qsg429o9MmaAy9o9pf3HjZFK0V_XmPCrY5LamT1hJQMSM0ecGeWeeJAg0iJxkyZv5Z_BUrM01ScoubJIDaxfrdY7PKvvRtVdWacrPRRnX1we4tuf0n815BHMabD7TuJNzRq5xAa2fR-SGzks7CIi_0hEawRyGA2CePDDUYDQhI2gzoPVo3iZ3xBF0PcmkOUxzLoK3cipmy0w7Fx_OE550J_Csel7iaHA3DSKm4EwUSUt6FWsxVbdBIVMKAHaxkaUDszLVL-LfFyFKHVnP9w_OKBNzzXxbF-tXT0GCruJcM7hUH5t2bYDUu3ezGMI",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": 1725507625.722015,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "session",
+    "value": "%7b5879253D-39BB-4EED-B99C-C4DE8967AAD2%7d",
+    "domain": ".trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "validationToken",
+    "value": "b76e5320-55e7-48f6-9000-0c9bfce1a0e1",
+    "domain": ".trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tm.FrEnd.idToken",
+    "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IkNCM0I0MkY3MDBBMTNFMkVDQkE5NDIzOTYwQUVDRjRERTc4M0Y2QjUiLCJ4NXQiOiJ5enRDOXdDaFBpN0xxVUk1WUs3UFRlZUQ5clUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2F1dGgudHJhZGVtZS5jby5ueiIsIm5iZiI6MTY5MDk0NzY2MiwiaWF0IjoxNjkwOTQ3NjYyLCJleHAiOjE2OTA5NDc5NjIsImF1ZCI6ImZyZW5kX2NsaWVudCIsImFtciI6WyJwd2QiXSwibm9uY2UiOiJPVFUyWkdJMU1XSTFPRGt5T0dNd1lqWmtZak16TURjNE1USm1OVGN6WVRnPSIsImF0X2hhc2giOiJBUFJ6VjVKdFNzaXB2bVBFQ0lOUlhBIiwic2lkIjoiNkFDREU0OTc1OUJEMTZDRTkwODQ0QzkzMkFBMTk4NDQiLCJzdWIiOiI4NjUzNzI2IiwiYXV0aF90aW1lIjoxNjkwOTQ3NjI1LCJpZHAiOiJ0cmFkZW1lIn0.a0uJK5XmxMuIE0sZNw0viDyDihW2zvG9TAqPPWM0f_vu6AUddo1wff4D_Wapv3Gs_Bkmb8VdRQ4aGimUCl07jRdAnMnjMyP5JeIWgymS1HvMumnGt-Hx1mvpufBOXQ5ejhmNghPzL6z23MtFHgO5rjHNdvd_KZcYoOxf7wJ-ASClO0AJjAxAib70ESVdiBGFVB-qUheUZN-qRF3QWTJ3-N7jiMDiHJvPM5_uyx4QFQa4E0wmh5SPeaBTeq5Ys3N-cnDjBSfX9uGqKiRqYHltzA9WD2Rl4IeN8xD6yIivc4EL_Wq8pw2c2FrWFy-Uioj80-Ifav4vz343MsccqQTr0NshHzXOfY9WfY_cZI4RVh1T_DPWoZXNaNkQKRfzBzoOkafCr1cc9KticzvRVi0NvTD4gFs7L1AAE--IWLo8PLa3aD5bxZIpOvTI3NcypAHL9c1o-fWJWr_qzsf9owFuaqeCAxBm6iNZYvDpynfChPxgIdanKeSk28nEw9IceZXb2yT9p9G1kxLRLiovY9Gde-r76kXJem8i7yZbjmNzu6VfRBdsPle_i0Wmyx3-blJxMiiaNsaVZl2gMEYiVZ1Xu_SB-GfnwrumAyvxc7osNABkJKsniWWYKz22S_vhmuiCUI61PaNJ04H36h46bhoMLyRouhVh-8lR5v5caYrdSL8",
+    "domain": ".www.trademe.co.nz",
+    "path": "/",
+    "expires": 1698892862.772091,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tm.FrEnd.sessionId",
+    "value": "4b74a79a79f2830e9ca0ed1a4b1bf11c",
+    "domain": ".www.trademe.co.nz",
+    "path": "/",
+    "expires": 1698892862.772168,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "tm.FrEnd.sessionKey",
+    "value": "ycNp+G290Pe11MZnF18TBzxIZqYJ0/ep",
+    "domain": ".www.trademe.co.nz",
+    "path": "/",
+    "expires": 1698892862.772205,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "LCMRef",
+    "value": "https%3A%2F%2Fwww.trademe.co.nz%2FBrowse%2FMotors%2FDriveChat%2FWidget.aspx%3Fid%3D356e8565-da19-4960-bc07-d6bbb4e8fe82%26pageentryurl%3Dhttps%253a%252f%252fwww.trademe.co.nz%252f4217056146%20https%3A%2F%2Fwww.trademe.co.nz%2Fa%2Fmotors%2Fcars%2Fnissan%2Fjuke%2Flisting%2F4217056146%3Frsqid%3De03cceed79564811b89c7627b9103142-002%26bof%3DGxI7Mx8i",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": 1690954882,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "LCMUserAlias",
+    "value": "%23",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": 1722483682,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "LCMVisit",
+    "value": "3#1690605227",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "LCMNoProactiveChat",
+    "value": "no",
+    "domain": "www.trademe.co.nz",
+    "path": "/",
+    "expires": 1690948283,
+    "httpOnly": false,
+    "secure": true
+  }
+]

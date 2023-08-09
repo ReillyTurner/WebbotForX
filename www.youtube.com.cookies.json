@@ -1,0 +1,155 @@
+[
+  {
+    "name": "VISITOR_INFO1_LIVE",
+    "value": "GQS7NWG5oGo",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1702869183.41617,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "DEVICE_INFO",
+    "value": "ChxOekU0TmpjMk16WTFNemcyTlRFek1qWTRPQT09EPeG8p0GGPeG8p0G",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1688850807.493995,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "LOGIN_INFO",
+    "value": "AFmmF2swRQIhAMP4As9VLU0Hj6TJxLiaWXYEPQAQk-F1Q_oAJq8dgwjNAiBLkQr5CzhG7LgqCgRQDl8keTLYe4FDATMGx5XbupVukA:QUQ3MjNmelRKQUxlTzN2bEhjYXZtUXFXdmlfODZYQkwtVzdBOGViZ0h5Qk9aRVRoVG52VW1GZVpPendqRXBBZGNzTHprSnQxMl83ZWtOR2xFc1FTaHNPY1Jib2tpZzdnempqcDBXTHBHLWVCckNhUW94YmtnRFIyeW5vbS1pUGlPTUpPcF9iaXNLcFU0MFpGdk9MREEwejh1TVQ2UU5OM3pR",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1712965492.963587,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "PREF",
+    "value": "f6=40000000&tz=Pacific.Auckland&f7=100&f5=30000&f4=4000000",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1722383869.498496,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "HSID",
+    "value": "Aso5MdOy6fEOB1Q6q",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1720572980.082213,
+    "httpOnly": true,
+    "secure": false
+  },
+  {
+    "name": "SSID",
+    "value": "AcUKpVZV89NAWvZbT",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1720572980.082368,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "APISID",
+    "value": "zj5r6CCizJX5c3Rp/AVpgoDBKBiccXLsut",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1720572980.082435,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "SAPISID",
+    "value": "nzvuhroaFYFZ9JyA/A_10O7BOEXnvzjlz9",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1720572980.082476,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__Secure-1PAPISID",
+    "value": "nzvuhroaFYFZ9JyA/A_10O7BOEXnvzjlz9",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1720572980.082512,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "__Secure-3PAPISID",
+    "value": "nzvuhroaFYFZ9JyA/A_10O7BOEXnvzjlz9",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1720572980.08255,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "SID",
+    "value": "XQgo_pOYxffTM3FSxeSVyHJPeLvxpI1m7nyeDZ7UNTN853rhXk14OEqcLMlmQGoB3fQB8g.",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1720572980.082586,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__Secure-1PSID",
+    "value": "XQgo_pOYxffTM3FSxeSVyHJPeLvxpI1m7nyeDZ7UNTN853rhx8vXyaTw55MPEVBey7EVsg.",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1720572980.082621,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "__Secure-3PSID",
+    "value": "XQgo_pOYxffTM3FSxeSVyHJPeLvxpI1m7nyeDZ7UNTN853rhyGtKt0ED15T3bjyrN1L1XQ.",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1720572980.082655,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "YSC",
+    "value": "cW6pkQpf_wc",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "SIDCC",
+    "value": "AP8dLtwvsGkKFjbhxbwwH0OYImoJmZd7YWCtVsrz5p-14SOEtj92rDea9kCOWMH9Wwh0DB90hw",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1719359874.628361,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__Secure-1PSIDCC",
+    "value": "AP8dLtwQOeJArg88t9IzoO-av-m_UFhewdX-Fg2rCFx4fgsUN7cceiMUlwh6wWht1mbfYZKDl0c",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1719359874.628496,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "__Secure-3PSIDCC",
+    "value": "AP8dLtwP7nscyvor_Uj4ZBRh0_X0mBT_gyadtiE__UTDW20-oHq3cEu7dtJgYQN4-2A2nzWk-BQ",
+    "domain": ".youtube.com",
+    "path": "/",
+    "expires": 1719359874.628563,
+    "httpOnly": true,
+    "secure": true
+  }
+]
